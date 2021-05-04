@@ -9,5 +9,8 @@ public class Test {
 		Utility u = new Utility();
 		System.out.println(u.getSysDate());
 	}
-
+	
+	public void m1() {
+		System.out.println("Test.m1() - 123");
+	}
 }
