@@ -11,6 +11,6 @@ public class Test {
 	}
 	
 	public void m1() {
-		System.out.println("Test.m1() - 123");
+		System.out.println("Test.m1() - 123ABCD");
 	}
 }
