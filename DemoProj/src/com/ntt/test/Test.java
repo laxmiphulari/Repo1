@@ -14,4 +14,7 @@ public class Test {
 
 		System.out.println("Test.m1() - 123ABC");
 	}
+	public void m3() {
+		System.out.println("Test.m3()");
+	}
 }
